@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "289243826522",
+    "firebase_url": "https://maps-281715.firebaseio.com",
+    "project_id": "maps-281715",
+    "storage_bucket": "maps-281715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289243826522:android:ee27b49267ca5387058b63",
+        "android_client_info": {
+          "package_name": "com.example.rut.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289243826522-05hr3622fk9758m32gu2sjdbkg3siqtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rut.taxi",
+            "certificate_hash": "51d1c378aa661eb66cd14104bc498e5f18bcc34b"
+          }
+        },
+        {
+          "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJwWa7NwwIdK8BLba535XXOpD_kI6RDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289243826522:android:b11860cf1eb98d0e058b63",
+        "android_client_info": {
+          "package_name": "com.iramml.uberclone.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289243826522-kpcn7t0mml3r5078h3ann00lf23bv363.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iramml.uberclone.driverapp",
+            "certificate_hash": "51d1c378aa661eb66cd14104bc498e5f18bcc34b"
+          }
+        },
+        {
+          "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJwWa7NwwIdK8BLba535XXOpD_kI6RDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289243826522:android:365289c298452f18058b63",
+        "android_client_info": {
+          "package_name": "com.iramml.uberclone.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289243826522-ij7sfuq4admhdrs7c09k3hontidtb64p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iramml.uberclone.riderapp",
+            "certificate_hash": "51d1c378aa661eb66cd14104bc498e5f18bcc34b"
+          }
+        },
+        {
+          "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJwWa7NwwIdK8BLba535XXOpD_kI6RDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289243826522-buki3va27h14qmnog8n7slmis9fcljl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
